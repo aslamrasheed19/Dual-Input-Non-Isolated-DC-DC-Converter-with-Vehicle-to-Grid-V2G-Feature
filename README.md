@@ -42,8 +42,7 @@ The project report describes the motivation as reducing the need for multiple de
 │   └── hardware-prototype.png
 └── docs/
     ├── project-report.pdf
-    ├── project-presentation.pptx
-    └── research-paper.pdf
+    └── project-presentation.pptx
 ```
 
 ## Software Requirements
@@ -68,7 +67,6 @@ The supplied model is configured for a variable-step simulation and has a stop t
 
 - **Project report:** `docs/project-report.pdf` — full B.Tech design report covering the problem, methodology, converter modes, component design, simulation, hardware implementation, cost, advantages, conclusion, and appendix.
 - **Presentation:** `docs/project-presentation.pptx` — project presentation used for the academic project.
-- **Research paper:** `docs/research-paper.pdf` — project-group research paper/documentation.
 
 ## Reference  
 
