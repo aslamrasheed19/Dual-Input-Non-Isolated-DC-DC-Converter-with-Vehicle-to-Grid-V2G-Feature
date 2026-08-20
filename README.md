@@ -72,7 +72,7 @@ The supplied model is configured for a variable-step simulation and has a stop t
 
 ## Reference  
 
-`G. G. Kumar and S. Kumaravel, "Dual-Input Non-isolated DC-DC Converter with Vehicle to Grid Feature," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2020.3042967.`
+>G. G. Kumar and S. Kumaravel, "Dual-Input Non-isolated DC-DC Converter with Vehicle to Grid Feature," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2020.3042967.  
 
 ## Team
 
