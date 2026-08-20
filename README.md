@@ -70,6 +70,10 @@ The supplied model is configured for a variable-step simulation and has a stop t
 - **Presentation:** `docs/project-presentation.pptx` — project presentation used for the academic project.
 - **Research paper:** `docs/research-paper.pdf` — project-group research paper/documentation.
 
+## Reference  
+
+`G. G. Kumar and S. Kumaravel, "Dual-Input Non-isolated DC-DC Converter with Vehicle to Grid Feature," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2020.3042967.`
+
 ## Team
 
 - Abhinand U D — PRN19EE002
@@ -81,14 +85,5 @@ The supplied model is configured for a variable-step simulation and has a stop t
 
 ## Academic Context
 
-B.Tech, Electrical & Electronics Engineering, College of Engineering Perumon, under A P J Abdul Kalam Technological University, 2022–2023.
+B.Tech, Electrical & Electronics Engineering, College of Engineering Perumon, under A P J Abdul Kalam Technological University, 2019–2023.
 
-## Important Notes
-
-- The repository contains the project team's supplied Simulink model and project documents; no MATLAB `.m` source files were supplied with the project files.
-- Generated MATLAB files, cache files, temporary files, and Simulink cache/build outputs are excluded through `.gitignore`.
-- The original IEEE source paper was not copied into this repository because it is a published copyrighted work; use the citation in the project report/research paper when referencing the underlying research.
-
-## License
-
-This repository is an academic project archive. Unless a separate license is added by the project authors, the original project materials remain the property of their respective authors/institution. Third-party publications and figures retain their original rights.
