@@ -1,0 +1,9 @@
+Project: Dual-Input Non-Isolated DC-DC Converter with Vehicle-to-Grid Feature
+Topic: Power Electronics / Electric Vehicle Energy Management / Multi-Input DC-DC Conversion
+Degree: B.Tech Electrical & Electronics Engineering
+Institution: College of Engineering Perumon
+Academic Year: 2022-2023
+Simulation: MATLAB/Simulink
+Model file: src/dual_input_disoc_v2g.slx
+Model save version: MATLAB R2020a
+Prototype rating documented in report: 500 W

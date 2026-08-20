@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Dual-Input Non-Isolated DC-DC Converter with Vehicle-to-Grid Feature"
+type: software
+abstract: "B.Tech project archive containing a MATLAB/Simulink model and documentation for a dual-input non-isolated DC-DC converter for solar PV/battery electric-vehicle applications with V2G/V2V and regenerative-energy features."
+authors:
+  - family-names: "U D"
+    given-names: "Abhinand"
+  - family-names: "Aslam A"
+    given-names: "Muhammed"
+  - family-names: "T"
+    given-names: "Sreehari"
+  - family-names: "Shahal"
+    given-names: "Thanveer"
